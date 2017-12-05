@@ -2,6 +2,8 @@ body {
     background: #2F4F4F	
     
 }
-button, li, a, h2, p{
-    font-family:Times New Roman
+button, li, a, h2, p, label, h3{
+    font-family: Times New Roman;
+    color: #7B68EE	
+     
 }
